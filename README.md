@@ -1,5 +1,9 @@
+
 # *VUI LÒNG ĐỌC KĨ README // PLEASE READ CAREFULLY*
 ## VIETNAMESE:
+
+<img align="right" width=200px alt="PNG" src="asuna.gif" alt="asuna.gif" />
+
 ## ***Lưu ý: Tài liệu chỉ nhằm mục đích tham khảo, mình sẽ không chịu bất cứ trách nhiệm pháp lý nào!!***
 ### Cách thay ID game, số ruby
 Tìm đoạn code này và làm theo hướng dẫn bên dưới
@@ -72,6 +76,8 @@ Python 3.11.5
 
 
 ## ENGLISH:
+<img align="right" width=160px alt="PNG" src="asuna.gif" alt="asuna.gif" />
+
 ## ***Note: The material is for reference only, I will not take any legal responsibility!!***
 ### How to change your ID and item value
 
