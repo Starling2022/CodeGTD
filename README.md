@@ -76,7 +76,7 @@ Python 3.11.5
 
 
 ## ENGLISH:
-<img align="right" width=160px alt="PNG" src="asuna.gif" alt="asuna.gif" />
+<img align="right" width=200px alt="PNG" src="asuna.gif" alt="asuna.gif" />
 
 ## ***Note: The material is for reference only, I will not take any legal responsibility!!***
 ### How to change your ID and item value
