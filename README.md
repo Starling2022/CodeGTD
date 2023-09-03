@@ -42,7 +42,19 @@ C:\Users\Administrator>python --version
 Python 3.11.5 
 ```
 
-***Bạn vẫn không hiểu? Vui lòng xem video trên kênh youtube!***
+## Bạn cần thêm tài liệu học tập?
+
+### Một số kĩ thuật có thể tham khảo:
+<a href="https://youtu.be/DPNjJwNwjmM?si=D5Ruq-BhbYbX0i6E">
+  <img align="right" alt="Replay attack" width="222px" src="ytlogo.png" />
+</a>
+
+#### ~replay attack
+#### ~Session hijacking
+#### ~SQL injection
+#### ~IP Spoofing attack
+
+***Bạn vẫn không hiểu? Vui lòng xem video trên kênh youtube! ( chôm tạm của thằng bạn:> )***
 
 ***Code dã bị fix, tuy nhiên ae chỉ cần ngồi mò cái antiban tí là xài ngon ngay:>*** 
 
@@ -118,6 +130,20 @@ Microsoft Windows [Version 10.0.19044.3086]
 C:\Users\Administrator>python --version
 Python 3.11.5 
 ```
+
+## Do you need more study materials?
+
+### Some techniques for reference:
+<a href="https://youtu.be/DPNjJwNwjmM?si=D5Ruq-BhbYbX0i6E">
+  <img align="right" alt="Replay attack" width="222px" src="ytlogo.png" />
+</a>
+
+#### ~replay attack
+#### ~Session hijacking
+#### ~SQL injection
+#### ~IP Spoofing attack
+
+
 ***You still don't understand? Please watch the video on my youtube channel!***
 
 ***The code has been fixed but you just need to learn a little to be able to use it:>>***
