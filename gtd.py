@@ -120,7 +120,7 @@ class GTDHack:
 
 def main() -> None:
     user = GTDHack("TDM56446")
-
+    #Thay ID ở dòng trên
     result = user.addRuby(100)
     # Hack với số lượng ít để tránh bị band
     print(
